@@ -1,3 +1,3 @@
-import { multiple3or5, sumEvenFibonacci } from "./Problem 1.js";
+import { findLargestPrimeFactor, largestPalindromeProduct, multiple3or5, smallestMultiple, sumEvenFibonacci, sumSquareDiff } from "./Problem 1-10.js";
 
-console.log(sumEvenFibonacci());
+console.log(sumSquareDiff());
